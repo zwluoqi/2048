@@ -1,0 +1,56 @@
+.svn
+build
+cmake-build-debug
+.idea
+.vscode
+
+*.framework
+*.mm
+*.h
+*.m
+*.a
+*.jar
+
+资料
+client/Library
+client/obj
+client/TargetAndroid
+
+
+*.csproj
+*.pdf
+*.zip
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
