@@ -15,6 +15,7 @@ cmake-build-debug
 client/Library
 client/obj
 client/TargetAndroid
+client/Temp
 
 
 *.csproj
